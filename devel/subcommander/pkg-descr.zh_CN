@@ -1,0 +1,5 @@
+Subcommander 项目的目标是建立一个易于使用的跨平台
+（Win32，Unix，MacOSX）的 subversion 的 GUI 客户端（subcommander），
+它还包含一个可视化的比较与合并工具（submerge）。
+
+WWW:   http://subcommander.tigris.org/
