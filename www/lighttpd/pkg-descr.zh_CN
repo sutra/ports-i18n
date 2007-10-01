@@ -1,0 +1,9 @@
+lighttpd 一个专门针对高性能网站，安全、快速、兼容性好并且灵活的web server环境。具有非常低的内存开销，cpu占用率低，效能好，以及丰富的模块等特点。它的高级功能(支持FastCGI, CGI, Auth, 输出压缩(output compress), URL重写, Alias等)
+lighttpd a secure, fast, compliant and very flexible web-server which
+has been optimized for high-performance environments. It has a very
+low memory footprint compared to other webservers and takes care of
+cpu-load. Its advanced feature-set (FastCGI, CGI, Auth, Output-Compression,
+URL-Rewriting and many more) make lighttpd the perfect webserver-software
+for every server that is suffering load problems.
+
+WWW: http://www.lighttpd.net/
