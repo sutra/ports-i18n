@@ -1,0 +1,15 @@
+Kon 是一个日本汉字控制台。这还只是一个 alpha 版本。支持的视频卡仅为 VGA，字体仅为 Minix/V 
+和 BDF。该程序需要共享内存。
+
+这个版本支持 ja_JP.ujis ja_JP.sjis zh_TW.big5 zh_CN.ugb ko_KR.euc。
+
+原始的 kon 由 manabe@papilio.tutics.tut.ac.jp 编写。
+这个 port 是 ogura@st.rim.or.jp 做的。
+
+Big5 控制台，由 Hung-Chi Chu <hcchu@r350.ee.ntu.edu.tw> 移植。
+
+使用 /usr/local/bin/et 来启动 big5con, *仅在 ttyvX 下*。
+
+根据你的需要修改 /usr/local/bin/et 和 /usr/local/etc/big5con.cfg。
+参见 /usr/local/lib/xcin/xcin.help，查看各种汉字输入方法。
+要获得更多信息 -- ftp://wj.ml.org/freebsd/woju/binary/b5c.txt
