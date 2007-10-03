@@ -1,0 +1,7 @@
+aterm 是一个彩色的 vt102 终端模拟器，它基于 rxvt 2.4.8，增加了加速的透明度。
+
+它基于以用户为中心创建，但不依赖于任何类库，方便在任何地方使用。
+
+WWW:	http://aterm.sourceforge.net/
+
+- Jim <jim@FreeBSD.org>
