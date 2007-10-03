@@ -1,0 +1,8 @@
+如果你使用 procmail，这里有一个例子：
+${PREFIX}/share/autoconvert/procmailrc.example，可以帮助你把 autoconvert 作
+为 procmail 的一个过滤器来安装。
+
+WWW: http://banyan.dlut.edu.cn/~ygh/
+
+- Yin-Jieh Chen
+yinjieh@csie.nctu.edu.tw
