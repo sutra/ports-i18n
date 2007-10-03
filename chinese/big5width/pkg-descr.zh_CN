@@ -1,0 +1,7 @@
+Unicode 对一些字符的宽度定义比较模糊。软件根据上下文探测字符的宽度。然而，有些时候很难
+或者无法获得其上下文。因此，这个 port 修正一些控制台软件，让他们能够识别所有的 Big5 编
+码字符为双宽度。现在你可以开心地使用 UTF8 终端和 Big5 字体了 :)
+
+这个 port 为 wcwidth(3) and wcswidth(3) 修正 zh_TW.UTF-8 locale。
+
+WWW: http://www.csie.ntu.edu.tw/~r92030/project/big5width/
