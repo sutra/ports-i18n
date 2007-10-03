@@ -1,0 +1,12 @@
+这些字体是 Unicode 的中文字体，其中包括下列字符：
+ - Big5
+ - GB2312-80
+ - HKSCS-2004
+ - ISO8859-1,2,3,4,7,9,10,13,14,15
+ - Bopomofo Extended for Minnan and Hakka
+
+The missing glyphs for GBK, Japanese and Korean are under development, 
+every release contains more glyphs.
+缺少的 GBK，日文和韩文的 glyphs 正在开发中，每个发行版都会包含更多的 glyphs。
+
+WWW: http://www.freedesktop.org/wiki/Software_2fCJKUnifonts
