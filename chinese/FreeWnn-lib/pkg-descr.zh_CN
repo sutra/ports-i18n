@@ -1,0 +1,11 @@
+FreeWnn 是一个日文、中文、韩文输入法。
+
+WWW: http://www.freewnn.org/
+
+这个 port 仅含有一个中文输入法的类库。这个类库包含了客户端所需要的一个归档文件
+（libcwnn.a），头文件和其它一些文件。
+
+注意，如果你使用 Wnn 的客户端，则必须设置环境变量 CSERVER 或 TSERVER。
+
+-- S. Taoka
+<taoka@FreeBSD.org>
