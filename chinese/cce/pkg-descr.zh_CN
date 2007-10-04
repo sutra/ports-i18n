@@ -1,0 +1,5 @@
+Console CJK Environment 让你在 Linux/FreeBSD 控制台上显示和输入中文、日文或韩文，
+它既可以工作在 VGA 模式下也可以工作在 frame buffer 模式下。输入法包含拼音、五笔、双拼、
+自然码、仓颉、注音、大英、英汉，共约40种。
+
+WWW: http://sourceforge.net/projects/cce2k/
