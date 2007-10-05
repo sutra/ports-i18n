@@ -1,0 +1,8 @@
+该软件包通过 CMEX 和 DynaLab 为 X 窗口系统（PCF）提供了标准的 Big5+ 中文明体 24x24 位图
+字体（能缩放为 16x16 位图字体）。这事互联网上少有的兼容 DFSG 的 Big5 或 Big5+ 中文位图字体。
+
+这个字体通过 DynaLab 设计并通过 CMEX 发布作为建议的 Big5+ 标准文档的一部分。它已被转换
+为 HBF 和 BDF 格式，并有 Wei-Lun Chao 在 1998 年 9 月做了进一步的修改。
+
+
+WWW: http://www.cmex.org.tw/
