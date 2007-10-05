@@ -1,0 +1,11 @@
+一个类似“more”或“pg”的翻页器，但是它更强大并且其用户界面是中文的。
+
+Cless 是一个 GNU 的 less（版本290）的移植，它可以显示中文 GB（简体）或 Big5（繁体）
+语言书写的文件。你可以通过设置环境变量 LESSCHARSET 为 ‘ascii’来切换到通常的 ASCII 
+文本的读取。
+
+并且，通过设置环境变量 LESSHELP 可以让其帮助文件显示为简体中文、繁体中文或英文。Cless 
+必须运行在支持中文语言编码的 CXterm 或类似终端模拟器上。
+
+David O'Brien
+obrien@cs.ucdavis.edu
