@@ -1,7 +1,3 @@
-CElvis is a clone of vi/ex, the standard UNIX editor.  CElvis supports
-nearly all of the vi/ex commands, in both visual mode and colon mode.
-It also allows displaying and editing of documents using the
-Chinese GB (simple) and Big-5 (complex) encodings.
 CElvis 是 vi/ex 的克隆版本，一个标准的 UNIX 下的编辑器。CElvis 支持
 几乎所有的 vi/ex 命令，无论是可视化模式还是冒号模式。
 它也允许显示和编辑使用中文 GB（简体）和Big-5（繁体）编码的文档。
