@@ -1,0 +1,8 @@
+中文（Big5） <-> 英文 dictd 词库。
+
+pydict 库有 177751 词目。
+moecomp 库有 67263 词目。
+netterm 库有 6477 词目。
+cedict 库有 26348 词目。
+
+Author: Pofeng Lee <pofeng@linux.org.tw>
