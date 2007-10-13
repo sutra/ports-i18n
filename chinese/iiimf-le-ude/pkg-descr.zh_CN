@@ -1,0 +1,9 @@
+IIIMF 意为因特网/内部网输入法框架（Internet/Intranet Input Method Framework）。
+IIIMF 旨在成为下一代的输入法框架。
+
+UDE 是用户定义引擎，SumIM 基于简体中文转换引擎模块。
+
+WWW: http://www.openi18n.org/subgroups/im/IIIMF/
+
+- Kuang-che Wu
+  kcwu@csie.org
