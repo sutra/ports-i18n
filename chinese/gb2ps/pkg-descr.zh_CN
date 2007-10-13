@@ -1,0 +1,15 @@
+转换中文国标（中文）编码的文本为 PostScript
+
+自动支持 HZ 编码。它甚至允许你混合使用 GB 和 HZ 编码。
+ 
+例如：
+	输入：	gb2ps -h
+	输出：	GB2PS 的使用方法
+
+	输入：	gb2ps cm9203d.gb cm
+	输出： PS programs cm
+			
+	输入：	gb2ps -b 3 -e 5 cm9208a.hz cm
+	输出：	PS program cm from page 3 to page 5.
+
+然后你可以通过发送 PS 输出到你的 PS 打印机来打印出中文文档。
