@@ -1,0 +1,11 @@
+GB2JIS  converts  GB2312-80  and  GB8565-88  characters to
+JISX0208-1983  and  JISX0212-1990  characters.   GB2312-80
+(^[$A),  GB2312-80  +  GB8565-88  (^[$(E), and Chinese-EUC
+(8-bit GuoBiao) are available for Hanzi code.
+GB2JIS 转换 GB2312-80 和 GB8565-88 汉字为 JISX0208-1983 
+和 JISX0212-1990 汉字。
+(^[$A),  GB2312-80  +  GB8565-88  (^[$(E), and Chinese-EUC
+(8-bit GuoBiao) are available for Hanzi code.
+
+--
+Maintainer: Zhang Shu <jo-c@is.aist-nara.ac.jp>
