@@ -1,0 +1,7 @@
+jis2gb 转换 JISX0208-1983 和 JISX0212-1990 汉字为 GB2312-80 和 GB8565-88 汉字。
+JISX0208-1983(^[$B),  JISX0208-1990  (^[&@^[$B), JISX0212-1990 (^[$(D),
+JISC6226-1978 (^[$@), and Japanese-EUC are  available  for
+Kanji code.
+
+--
+Maintainer: Zhang Shu <jo-c@is.aist-nara.ac.jp>
