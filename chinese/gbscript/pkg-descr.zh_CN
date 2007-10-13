@@ -1,0 +1,22 @@
+gbscript 转换国标简体中文文本为 PostScript。
+
+Chinese bitmap fonts which are without 'zone gap' and 16x16 or 24x24 sized
+
+	一些适用的字体：
+		名称                描述                     文件大小
+		[24x24]
+		cclib.24       (简体宋体)           588,816
+		cclibf.24      (繁体宋体)           588,816
+		cclibb.24      (简体仿宋)           588,816
+		cclibk.24      (简体楷体)           588,816
+		cclibh.24      (简体黑体)           588,816
+
+		[16x16]
+		ncclib.16      (简体)              267,712
+
+注意：
+o  cclib.j24, cclib.f24, cclib.k24, cclib.h24 and cclib.n24 是字体文件的不同集合（虽
+    然是从一些原始的派生而来）;他们不能用于 GBscript。
+o  为了节省磁盘空间，一些字体不包含一些特殊字符，因此他们不是连续的而是存在一些空白地带。GBscript
+    现在无法处理这些类型的字体。
+o  中文位图字体可以在 /ftp@ifcss.org:/software/fonts/ 找到。
