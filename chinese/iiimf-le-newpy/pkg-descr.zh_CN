@@ -1,0 +1,19 @@
+IIIMF 意为因特网/内部网输入法框架（Internet/Intranet Input Method Framework）。
+IIIMF 旨在成为下一代的输入法框架，其中规定了下面的能力：
+
+* 跨平台，平台独立的。
+* 多语言和完整的 UNICODE 支持，良好的母语。
+* 窗口系统独立。
+* 多语言引擎同时运行。
+* 多用户。
+* 分布式，轻量级客户端和可伸缩的服务器。
+* 多种途径的可扩展性。
+* 输入法协议在低速的 modem 连接上有足够的效率。
+* 易于开发的输入法引擎插件 API。
+* 在 libiiimcf 上，甚至控制台应用程序易于使用的。
+* Small core part to start from.
+
+WWW: http://www.openi18n.org/subgroups/im/IIIMF/
+
+- Kuang-che Wu
+  kcwu@csie.org
