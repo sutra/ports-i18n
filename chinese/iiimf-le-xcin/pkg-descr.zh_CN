@@ -1,0 +1,16 @@
+从流行的繁体中文输入法 xcin（用 XIM 协议写成）移植过来的 IIIMF 语言引擎。它现在
+包含了下面的输入法：
+    仓颉（CangJie）
+    Simplex
+    Phone
+    拼音（PinYin）
+    NoTonePinYin
+    粤语拼音（Cantonese PinYin）
+    Array
+    EZ
+    Telecode
+
+WWW:	http://tciiimf.sourceforge.net/
+
+- Kuang-che Wu
+  kcwu@csie.org
