@@ -1,0 +1,7 @@
+kcfonts 是 X 窗口下的中文 Ming 繁体字体套件。
+
+kcfonts 的字体有 Kau Chauo 信息有限公司贡献给所有的 TANet 用户运行于其个人 PC。
+感谢 Chin-Hao Tsai <c-tsai@uiuc.edu>，他转换它为 ETen 的字体风格。现在你可以
+使用 kcfonts 和 crxvt 来查看大五码的中文。
+
+-- PA <PA@FreeBSD.ee.ntu.edu.tw> 
