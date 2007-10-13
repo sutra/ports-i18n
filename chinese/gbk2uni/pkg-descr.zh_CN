@@ -1,0 +1,5 @@
+gbk2uni 是一个命令行程序，为 TeX 书写的包含中文字符的文档创建正确
+的 PDF 书签。它将 GBK 字符转换为 unicode 码放在 .out 文件中。
+
+- Yuan Jue
+yuanjue@yuanjue.net
