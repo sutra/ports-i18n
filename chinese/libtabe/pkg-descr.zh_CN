@@ -1,0 +1,5 @@
+TaBE 意为 `台湾和大五码编码（Taiwan and Big5 Encoding）'。
+libtabe 为处理中文字词、短语、句子以及注音符号提供了统一的界面和类库。
+它是打算成为中文文字处理的基础。
+
+WWW: http://libtabe.sourceforge.net/
