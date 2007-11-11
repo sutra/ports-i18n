@@ -1,0 +1,11 @@
+MOE CIDFonts
+============
+
+这个字体集合被 ghostscript 所使用，用来打印中文文档。
+
+中文 CID-Keyed fonts(MOEKai and MOESung) 由 Adobe 提供，
+原来的 48x48 位图字体来自 Ministry of Education of Taiwan Government，
+由 Dynalab 编写。这些字体都可以自由使用。
+
+--
+Jing-Tang Keith Jang <keith@FreeBSD.org>
