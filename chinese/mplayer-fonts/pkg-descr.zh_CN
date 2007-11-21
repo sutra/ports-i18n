@@ -1,0 +1,11 @@
+这是一个包含了 mplayer 屏幕显示和 sub title 的字体集
+的 port。
+
+目前支持下列字符集：
+
+大五码-楷体
+大五码-明体
+简体中文-楷体
+简体中文-明体
+
+WWW: http://www.mplayerhq.hu/
