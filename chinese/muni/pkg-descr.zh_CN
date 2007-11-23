@@ -1,0 +1,22 @@
+Muni 可以查找列在 Matthews 汉英字典中的 7773 个汉字字符的 Unicode 值。
+
+你输入一个可以在字典中找到的字符，然后它将给你对应的 Unicode 映射，或者告诉你没有找到
+匹配的映射。
+
+除了可以输入数字外，你还可以输入一个查询，例如：
+
+	% muni
+	: What is Unicode mapping for "Yung", listed in Matthews' Dictionary
+	: as character 7589?
+	- Matthews(7589) = U+6C38
+	: Thank you. How about 3268, Matthews' number for "Kang"?
+	- Matthews(3268) = U+525B
+	: Thank you, Mr. Computer.
+	: ^D
+	%
+
+WWW: http://www.whizkidtech.redprince.net/i18n/muni/
+
+G. Adam Stanislav (a.k.a. Yung Kang)
+adam@redprince.net
+http://www.redprince.net/
