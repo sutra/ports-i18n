@@ -1,0 +1,13 @@
+Abyss Web 服务器是一个坚实的易于使用的 web 服务器。
+
+尽管它体积非常小，但是它支持 HTTP/1.1、通过 CGI/FastCGI 脚本的动态内容生成、ISAPI 扩展、
+本地 ASP.NET 支持、服务器端包含（SSI）、自定义错误页面、密码保护、IP 地址控制、
+anti-leeching 和带宽控制。
+
+它还具有自动防黑系统，以及多语言的 web 管理界面，这使得它的配置像浏览一个网站那样容易。
+
+它支持广泛的网络技术，并可以运行和类似 MySQL, SQLite, MS SQL Server, MS Access, 
+或 Oracle 等数据库互动的先进的 PHP、Perl、Python、ASP、ASP.NET 和 Ruby on Rails Web 
+应用程序等。
+
+WWW: http://www.aprelium.com/
