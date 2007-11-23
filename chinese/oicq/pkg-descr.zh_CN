@@ -1,0 +1,4 @@
+Perl-oicq 提供了 Perl 模块 Net::OICQ，它实现了 OICQ 消息传输协议。它仅包含一个命
+令行的 OICQ 客户端，通过它你可以跟数万的 OICQ 用户通过 Tencent 所经营的服务器来聊天。
+
+WWW: http://sourceforge.net/projects/perl-oicq/
