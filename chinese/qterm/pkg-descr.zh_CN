@@ -1,0 +1,14 @@
+QTerm 是一个 X Windows System 下的 BBS 客户端。其目标是做成一个
+类似在 MS Windows 下的 Fterm 和 CTerm 的客户端。
+
+特性：
+1.鼠标支持
+2.复制和粘贴
+3.文章下载
+4.地址簿
+5.防止闲置
+6.在 GB 和 BIG5 之间转换
+
+WWW: http://qterm.sourceforge.net/wiki/
+
+- Yuan, Jue <yuanjue@yuanjue.net>
