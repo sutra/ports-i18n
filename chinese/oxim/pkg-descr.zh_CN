@@ -1,0 +1,6 @@
+oxim 是一个通用的输入法服务器，主要着重于中文输入。它主要由
+Firefly <firefly@ossii.com.tw> 开发，它是 xcin 2.5.3 （预发布版）的一个分支。
+除了继承了 xcin 的 Root and OverTheSpot 输入风格外，它还支持 OnTheSpot 和
+OnTheSpotQT。你可以很容易地在基于 GTK 和 QT 的软件上使用。
+
+WWW: http://opendesktop.org.tw/
