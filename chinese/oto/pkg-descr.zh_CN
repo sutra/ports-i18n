@@ -1,0 +1,5 @@
+你是不是有 X Windows 不认识的 TrueType 字体？可能是因为这个字体使用的编码不
+是 Unicde！Open Type Organizer (oTo) 可以显示你的字体信息并通过翻译原始的
+字体来添加新的“name”和“cmap”表。
+
+WWW: http://sourceforge.net/projects/oto
