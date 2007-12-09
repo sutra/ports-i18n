@@ -1,0 +1,5 @@
+fcitx 意为 Free Chinese Input Toy of X，它是一个基于 XIM（X Input Method） 的简体
+中文输入法的集合，包括五笔、拼音、和区位码。
+scim-fcitx 是一个 fcitx 的 SCIM 输入法引擎模块。
+
+WWW: http://www.fcitx.org
