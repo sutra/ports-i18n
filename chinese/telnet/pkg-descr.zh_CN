@@ -1,0 +1,20 @@
+描述：
+	在8位环境下使用 /usr/bin/telnet ，例如，台湾的大五码中文环境。
+	为了能输入汉字，需要使用“-8”或“-L”参数，但是，使用这些参数会引起了另外一个问题。
+指定“-8”或“-L”导致当 telnet 到 SunOS 时 ^U 或 ^C 或 ^D 或 ……（any isprint(c)）发生故障。
+
+如何重现：
+	/usr/bin/telnet -8 ms1.hinet.net       (ms1.hinet.net running Solaris)
+	login: abcde^U			       (or just press Enter)
+	=> the terminal state goes wrong, "reset" is needed to go back
+	   to "normal state"
+
+修正：
+应用了下面的补丁：
+gopher://freebsd.csie.nctu.edu.tw/00%2f3%2fA0002063
+
+这使得 telnet “纯8位”，可以输入8位的数据（汉字）而不需要指定“-8或-L”选项，并且
+telne 到 SunOS 没有问题。
+
+参见：
+WWW: http://www.freebsd.org/cgi/query-pr.cgi?pr=6144
