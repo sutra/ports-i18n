@@ -1,0 +1,6 @@
+pyDict 是一个中文（Big5） <-> 英文互译的词典，用 Python 编写。
+它可以作为一个控制台程序或者 X11 窗口（使用 -x 选项）程序运行。
+它的数据由中文 TruboLinux 准备，然后由 CLE（Chinese Linux Extension）小组
+转换成繁体中文。
+
+Author: Daniel Gau <plateau@pagic.net>
