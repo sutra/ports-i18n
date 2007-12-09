@@ -1,0 +1,6 @@
+该模块需要 Lingua::ZH::TaBE，一个中文 Tokenizer；它是 Lingua::ZH::TaBE
+的一个封装，也是接口的 utf8 支持的重载。
+
+WWW: http://search.cpan.org/dist/Lingua-ZH-Toke/
+-- Autrijus Tang 
+autrijus@autrijus.org
