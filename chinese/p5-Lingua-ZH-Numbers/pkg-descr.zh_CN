@@ -1,0 +1,5 @@
+该模块尝试转换数字为中文基数的数字。它支持小数，5种表现系统（charsets）：
+繁体、简体、大五码、国标码和拼音。前两个返回 unicode 字符串；所以他们只能
+用于 Perl 5.6 及以后版本。
+
+WWW: http://search.cpan.org/dist/Lingua-ZH-Numbers/
