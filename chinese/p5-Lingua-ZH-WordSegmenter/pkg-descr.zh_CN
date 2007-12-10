@@ -1,0 +1,9 @@
+这是简体中文分词的 perl 版本。
+
+该分词算法在词典中搜索（向左和向右双向搜索）最长的词语，并选择一个频率较高的。
+
+这个程序源于 CPAN 模块 Lingua::ZH::WordSegment (http://search.cpan.org/~chenyr/)
+我作了如下修改：1）使得接口面向对象化；2）使内部字符串使用 utf8 编码；
+3）使用 sogou 字典(http://www.sogou.com/labs/dl/w.html)作为默认字典。
+
+WWW:	http://search.cpan.org/dist/Lingua-ZH-WordSegmenter/
