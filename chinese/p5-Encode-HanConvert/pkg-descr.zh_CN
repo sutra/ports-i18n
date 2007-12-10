@@ -1,0 +1,12 @@
+这个模块试图以有效的，灵活的方式，而不需要借助于外部工具和模块来解决发生在繁体
+中文和简体中文转换中的常见问题，。
+
+安装完成该模块后，你将有两个额外的编码格式：big5-simp 是 Big5 到 Unicode 
+的简体中文映射（反之亦然），gbk-trad 是 CP936 （一般成为 GBK）到 Unicode 
+的繁体中文映射。
+
+该模块默认情况下通过多种 xxx_to_yyy 函数输出变量，xxx 和 yyy 是 big5、
+ gb（例如 GBK/CP936）、simp（简体中文 unicode）、或者 trad （繁体中文 
+unicode）中的一个。
+
+WWW: http://search.cpan.org/dist/Encode-HanConvert/
