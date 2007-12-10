@@ -1,0 +1,9 @@
+Lingua::ZH::HanDetect 使用统计学方式测试文本字符串来查看它是繁体还是简体中文，
+以及其编码。
+
+如果字符串不包含汉字，编码和变体值都将设置为空字符串。
+
+由于各种编码的汉字所占据的字节不等，因此这个模块显得非常有用，使用 Encode::Guess 
+是无效的。
+
+WWW:	http://search.cpan.org/dist/Lingua-ZH-HanDetect/
