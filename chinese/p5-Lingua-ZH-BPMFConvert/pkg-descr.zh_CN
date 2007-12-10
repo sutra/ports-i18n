@@ -1,0 +1,4 @@
+这是一个基于规则的转换 BPMF 为汉语拼音的转换器。不像以往的模块，它不依赖于任何数
+据表，因此它可以转换 neophonisms （新拼音组合而不是现有的国语）为正确的汉语拼音。
+
+WWW:	http://search.cpan.org/dist/Lingua-ZH-BPMFConvert/
