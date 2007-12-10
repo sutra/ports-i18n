@@ -1,0 +1,6 @@
+这个模块是 TaBE（Taiwan and Big5 Encoding）类库的 Perl 接口，用来处理中文词语、
+短语、句子和注音符号的一个统一接口和类库；它打算用作中文文本处理的基础。
+
+WWW:	http://search.cpan.org/dist/Lingua-ZH-TaBE/
+
+Author:	Autrijus <autrijus@autrijus.org>
