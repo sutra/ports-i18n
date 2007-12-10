@@ -1,0 +1,11 @@
+Perl 5.7.3 和以后的版本有一套足够的中文编码，包括常用的 CP950、CP936（也
+称为 GBK）、Big5（别名为 Big5-Eten）、Big5-HKSCS、EUC-CN、HZ 和 ISO-IR-165.
+
+然而，中文编码多得惊人，要涵盖所有的编码将会占据 perl 发行版好几兆字节；因此，这个 
+CPAN 模块试图提供其它剩下的一些编码。
+
+如果你使用的是 perl 5.8 或更高版本，Encode::CN 和 Encode:TW 将会为你自动
+加载扩展编码，因此如果你已经使用了它们中的一个，那么你无需明确使用 
+Encode::HanExtra 来调用。
+
+WWW: http://search.cpan.org/dist/Encode-HanExtra/
