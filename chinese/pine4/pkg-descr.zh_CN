@@ -1,0 +1,17 @@
+Pine（Program for Internet News & Email）是一个阅读、发送和管理电子信息的工具。
+它是专门为计算机新手设计的，但是它可以定制以满足高级用户的需要。Pine使用互联网消息协议
+（如RFC-822，SMTP，MIME，IMAP，NNTP）并可以运行于Unix和PC上。
+
+Pine包含Pico编辑器，Pilot文件浏览器，IMAPv4r1服务器和POP2/POP3服务器（这些服务器
+没有默认内置）
+
+配置文件可以放到/usr/local/etc来做系统级别的默认设置。要了解更多详情可以查看安装
+于/usr/local/share/doc/pine/的文档。
+
+在 dot.pinerc.pgp.sample 是一个例子，你可以把它加入到 .pinerc 来激活pgp的插件脚
+本pgpdecode、pgpencode、 和pgpsign。
+
+dot.pinerc.sample是配置文件的一个例子（包含PGP支持），你可以把它命名为.pinerc放到
+你的home目录。
+
+Pine on WWW: http://www.washington.edu/pine/
