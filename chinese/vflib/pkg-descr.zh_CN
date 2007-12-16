@@ -1,0 +1,8 @@
+VFlib是一个矢量字体库。支持TrueType、Zeit、JG、BDF字体。
+它也支持使用了TrueType提示信息的FreeType库，因此更清晰的输出是可能的。
+
+要了解更多详情，参见/usr/local/lib/VFlib/doc/man.ps（日语）或下面的URL。
+
+这个port可以使用中文大五码和国标码编码的字体。
+
+WWW: http://www-masu.ist.osaka-u.ac.jp/~kakugawa/VFlib/
