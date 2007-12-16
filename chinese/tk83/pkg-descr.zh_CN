@@ -1,8 +1,6 @@
-这是Tcl8.3，一个嵌入的工具命令语言。
+这是Tk 8.3 版本，一个Tcl的GUI工具包。
 
 最佳开始途径是阅读John K. Ousterhout编写的“Tcl and the Tk Toolkit”，
 Addison-Wesley，ISBN 0-201-63337-X。
 
-包里也提供了一个完整的使用手册。
-
-WWW: http://www.tcl.tk/
+WWW: http://www.tcl.tk/software/tcltk/8.3.html
