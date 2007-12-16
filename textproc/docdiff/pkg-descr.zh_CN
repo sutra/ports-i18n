@@ -1,0 +1,5 @@
+DocDiff 比较两个文件，并显示出不同之处。它可以逐字逐句地比较文件。它有几种
+不同的输出格式如HTML、tty、Manued或用户自定义标记。
+
+WWW: http://www.kt.rim.or.jp/~hisashim/docdiff/
+Author: Hisashi MORITA <hisashim at kt dot rim dot or dot jp>
