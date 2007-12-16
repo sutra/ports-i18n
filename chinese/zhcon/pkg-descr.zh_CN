@@ -1,0 +1,7 @@
+Zhcon是一个支持帧缓冲设备的快速的Linux控制台中文系统。它可以显示中文、
+日文或韩文双字节字符。支持语言编码包括：GB2312、GBK、BIG5、JIS和KSC。
+也支持UTF-8。
+
+它也可以使用来自M$pwin98和M$-DOG上的UCDOS的输入法（基于码表的）。
+
+WWW: http://sourceforge.net/projects/zhcon/
