@@ -1,0 +1,19 @@
+NTHU-CS Maple BBS 2.36 的BBS类似的编辑器
+
+除了通常的功能外，它还有一些为程序员设计的特殊功能──
+转到指定行（ESC-G）
+跨文件的剪切和粘贴（按Ctrl-G查看ve.hlp）
+阻塞shift左/右（ESC-J/K，按Ctrl-G查看ve.hlp）
+括弧匹配（ESC-[）
+搜索（Ctrl-S，ESC-n，ESC-p)
+   （匹配开始行，区分大小写/不区分大小写，向前/向后）
+撤销行（ESC - '-'，或 ESC-_   ）
+撤销删除行（ESC-u）
+……
+类似emacs的热键
+
+ve是一个小巧的编辑器，约60K。它是woju喜爱的UNIX编辑器。ve的最明显的弱点是
+改变制表符为空白符。所以请不要使用ve来编辑制表符很重要的文件，
+比如Makefile、sendmail.cf、syslog.conf等等。
+
+WWW: http://netlab.cse.yzu.edu.tw/~statue/freebsd/zh-tut/ve.html
