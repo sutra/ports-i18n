@@ -1,0 +1,15 @@
+True Type字体管理器管理true type字体的安装、卸载、列表和默
+认字体设置。它本来是发布在CLE上的。
+
+这个管理器不直接使用TTF处理应用程序。而是调用相应的模块来处理
+其细节。只有几个模块预定义的行为，例如添加、删除、列表。版本0.9
+有4个模块：
+
+chitex: For ChiTeX, a Chinese TeX/LaTeX
+ttf2pk: Generate pk/tfm for CJK
+xfreetype: For Xfsft in XFree86 3.3.x and "freetype"
+           module in 4.x
+xttfm: For X-TT in XFree86 3.3.x and "xtt" module in
+       4.x, avaiable in both tcl and sh versions.
+
+为了更好地检测和产生字体，一些模块增强了对大五码和国标码的支持。
