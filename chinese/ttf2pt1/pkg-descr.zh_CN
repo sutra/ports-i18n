@@ -1,0 +1,5 @@
+TTF2PT1是Andrew Weeks TTF2PFA从True Type到Postscript Type 3的转换器的修改版。
+它可以转换大多数的True Type字体到Adobe Type 1 的.pfa文件。生成的这些文件是人类可读
+的格式，可以根据需要用t1utilities加密，可工作在大多数的需要type 1字体的软件上。
+
+WWW: http://ttf2pt1.sourceforge.net/
