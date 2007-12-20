@@ -1,0 +1,7 @@
+在Java里使用properties文件来给J2EE应用程序存储配置信息、国际化桌面应用程序等等。然而，
+你不得不使用J2SDK中的native2ascii工具来转换多字节字符为Unicode，实现字符的平台无关性。
+这个编辑器可以直接编辑property文件，而写入相关的Unicode字符，从而节省用native2ascii来
+转换成Unicode的时间和精力。除了通常的功能外，这个插件还可以集成到Eclipse和JBuilder中。
+文件可以在IDE中打开并保存为Unicode。它的操作直观而简单。
+
+WWW:	http://propedit.sourceforge.jp/index_en.html
