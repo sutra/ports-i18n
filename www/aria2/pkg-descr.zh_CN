@@ -1,0 +1,18 @@
+aria2其核心有一个分段下载引擎。因此，它下载文件比普通的浏览器要快很多。目前它
+有以下特点：
+* 支持HTTP/HTTPSGET
+* 支持HTTP代理
+* 支持HTTP BASIC认证
+* 支持HTTP代理认证
+* 支持FTP（主动、被动模式）
+* 通过HTTP代理的FTP（GET命令或隧道）
+* 分段下载
+* Cookie支持（目前aria2忽略“expires”）
+* 它可以作为守护进程运行
+* 支持BitTorrent协议，具有快速扩展
+* 在多文件的torrent中选择性地下载
+* 支持metalink 3.0版
+* 下载/上传速度限制
+
+WWW: http://aria2.sourceforge.net/
+Author: Tatsuhiro Tsujikawa <tujikawa at users dot sourceforge dot net>
