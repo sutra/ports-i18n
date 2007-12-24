@@ -1,0 +1,8 @@
+cxterm是一个支持中文（简体/国标和繁体/大五码）的xterm。这个cxterm版本是来自X11R6
+xterm，因此具有类似的兼容性。
+
+注意，如果你是新用户，或者还不太明白X资源或X字体路径等，可简单地使用命令“CXterm”。
+
+
+David O'Brien
+obrien@cs.ucdavis.edu
