@@ -1,0 +1,17 @@
+LogKit是一个日志工具箱，旨在为应用程序提供安全的、高性能的日志系统。
+
+LogKit具有以下特点：
+  - 将LogEvent的产生从LogEvent的处理中分开。
+  - 易于使用和配置。
+  - 设计上的安全性考虑。
+  - 让用户精细地控制日志优先级和/或类别。
+  - 分层的日志命名空间，来允许LogTarget和优先级的继承。
+  - 轻量级。
+  - 可集成到现有的产品中。
+  - 着眼于性能。
+  - 允许用户插入过滤器来在日志被写入前过滤和修改LogEvents。
+  - 允许用户通过Formatters指定一系列的LogEvents的格式。
+  - 与已存在的LogTarget轻松集成。
+  - LogKit已存在数年并被使用于各种不同的环境中，突显其可靠性和稳定性。
+
+WWW: http://avalon.apache.org/logkit/index.html
