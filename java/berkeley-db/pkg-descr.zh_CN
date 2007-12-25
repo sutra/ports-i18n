@@ -1,0 +1,19 @@
+这是一个纯Java实现的Berkeley（伯克利）数据库（由SleepyCat开发，现在是Oracle）。
+编译时需要Java 1.5，虽然结果可以在1.4下运行。来自
+
+WWW: http://www.oracle.com/database/berkeley-db/index.html
+
+“Berkeley（伯克利）数据库Java版设计基于Java。它充分利用Java环境。Berkeley
+ （伯克利）数据库Java版API提供了一个Java集合式（Java Collections-style）的接
+ 口，以及一个类似Berkeley（伯克利）数据库API的编程接口。
+
+ Berkeley（伯克利）数据库Java版不同于其他的Java数据库。Berkeley（伯克利）
+ 数据库Java版不是一个建立在Java上的关系性数据库引擎。它是一个Berkeley（伯克利）
+ 数据库式的嵌入式存储，设计了给程序员用的接口，而不是DBA（数据库管理员）。Berkeley
+ （伯克利）数据库Java版的体系使用了基于日志的、不改写的存储系统，高并发和高速度，
+ 同时提供ACID事务和记录级别的锁。Berkeley（伯克利）数据库Java版本在内存里高效地
+ 缓存最频繁使用的数据，而没有应用程序上的限制。这样，Berkeley（伯克利）数据库
+ Java版充分利用JVM资源来提供访问非常大的数据集的能力。
+
+ Berkeley（伯克利）数据库Java版体系为任何需要高性能、交易完整性和可恢复性的
+ Java应用程序提供了一个潜在的存储层。”
