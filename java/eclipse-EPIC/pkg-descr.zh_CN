@@ -1,0 +1,6 @@
+EPIC是一个开源的Eclipse平台上的Perl集成开发环境。
+它所支持的功能有语法高亮、语法检查、内容帮助、perldoc支持、源码格式化、模板支持
+和一个Perl调试器。
+也有正则表达式插件和eSpell拼写检查器支持。
+
+WWW: http://e-p-i-c.sourceforge.net/
