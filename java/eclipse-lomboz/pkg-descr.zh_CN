@@ -1,0 +1,9 @@
+Lomboz是一个给企业或个人使用的开放源代码的自由的J2EE开发环境。
+
+你可以通过IDE来开发、测试、剖析和部署Web、Web服务、Java、J2EE和EJB应用程序。
+Lomboz全面支持J2EE标准应用程序服务器，支持大多数流行的开源运行环境，例如JOnAS，
+和其他厂商的运行环境。
+
+Lomboz建立于Eclipse开源平台和Web Tools Platform（WTP）项目上。
+
+WWW: http://lomboz.objectweb.org/
