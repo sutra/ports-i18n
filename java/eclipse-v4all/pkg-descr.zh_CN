@@ -1,0 +1,6 @@
+V4ALL Eclipse GUI（图形用户界面）设计器
+
+一个Eclipse插件，用来设计Java Swing和SWT GUI（图形用户界面）并生成代码。
+它的设计模型有XML格式并相当抽象，并且和生成的目标API耦合不是紧耦合的。
+
+WWW: http://sourceforge.net/projects/v4all/
