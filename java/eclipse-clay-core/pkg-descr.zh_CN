@@ -1,0 +1,6 @@
+Clay是一个数据库设计工具，作为插件运行在Eclipse开发环境中。Clay有一个
+直观的用户界面用来进行数据库模型的图形化设计。Clay也可以通过对现有数据
+库的逆向工程来创建数据库模型。此外，Clay能生成适合你的数据库的SQL（DDL）
+代码。
+
+WWW: http://www.azzurri.jp/en/software/clay/
