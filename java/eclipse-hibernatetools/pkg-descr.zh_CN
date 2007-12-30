@@ -1,0 +1,14 @@
+[ 摘在开发者网站，有所改动 ]
+
+Hibernate Tools是一个全新的工具集，用于Hibernate3的实施，它作为一个Eclipse插
+件使用，加上一个统一的Ant task，集成到build生命周期。它具有以下特点：
+
++ Mapping编辑器：编辑Hibernate XML映射文件的编辑器
++ 控制台：允许你配置数据库连接，提供类的视图和他们间的关系，允许你执行HQL查询，
+  来和你的数据库交互并浏览查询结果。
++ 逆向工程：数据库逆向工程工具，它可以在几秒钟内生成域模型类和Hibernate映射文件、
+  注解的EJB3实体bean、HTML文档，甚至整个JBoss Seam应用。
++ 向导
++ Ant task
+
+WWW: http://www.hibernate.org/
