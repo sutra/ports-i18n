@@ -1,0 +1,4 @@
+Eclipse IDE插件，用来对各种支持JDBC的数据库进行数据库查询/模式查看。它为个别数据库提
+供专业化的功能支持插件（Oracle和数据工具（如Hibernate、Oracle或Sybase））
+
+WWW: http://sourceforge.net/projects/eclipsesql/
