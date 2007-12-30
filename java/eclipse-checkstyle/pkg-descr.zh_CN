@@ -1,0 +1,5 @@
+Eclipse Checkstyle插件集成了Checkstyle Java代码审计到Eclipse集成
+开发环境。这个插件提供实时反馈给用户，关于违反代码规则的检查和正确的代码提
+示。
+
+WWW: http://eclipse-cs.sourceforge.net/
