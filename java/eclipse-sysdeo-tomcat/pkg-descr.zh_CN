@@ -1,0 +1,14 @@
+Sysdeo Eclipse Tomcat Launcher plugin, its features are:
+Sysdeo Eclipse Tomcat加载器插件，其特点是：
+
+    * 启动、停止和重启Tomcat 4.x、5.x、3.3
+    * 注册Tomcat进程到Eclipse调试器
+    * 创建一个WAR工程（向导可以更新server.xml文件）
+    * 添加Java项目到Tomcat classpath
+    * 设置Tomcat JVM参数、classpath和bootclasspath
+    * Exporting a Tomcat project to a WAR File导出Tomcat项目为一个WAR文件
+    * 选择Tomcat配置文件
+    * 有能力使用特殊的Tomcat classloader来在几个java项目中使用相同的classloader水平加
+      载类而不是一个Tomcat项目
+
+WWW: http://www.sysdeo.com/eclipse/
