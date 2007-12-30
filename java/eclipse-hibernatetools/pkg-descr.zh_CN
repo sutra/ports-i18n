@@ -1,4 +1,4 @@
-[ 摘在开发者网站，有所改动 ]
+[ 摘自开发者网站，有所改动 ]
 
 Hibernate Tools是一个全新的工具集，用于Hibernate3的实施，它作为一个Eclipse插
 件使用，加上一个统一的Ant task，集成到build生命周期。它具有以下特点：
