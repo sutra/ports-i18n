@@ -1,0 +1,6 @@
+Eclipse Web工具平台（WTP）项目用开发J2EE Web应用程序的工具扩展了Eclipse平台。WTP项目包
+含下面的工具：HTML、Javascript、CSS、JSP、SQL、XML、DTD、XSD和WSDL源码编辑器；XSD和
+WSDL图形编辑器；J2EE项目natures、构建器、建模和J2EE navigator；一个Web service向导和
+浏览器，WS-I测试工具；数据库访问和查询建模工具。
+
+WWW: http://www.eclipse.org/webtools/
