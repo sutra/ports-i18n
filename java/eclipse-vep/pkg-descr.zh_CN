@@ -1,0 +1,5 @@
+Eclipse可视化编辑器项目是一个创建GUI（图形用户界面）的框架。它包含Swing/JFC
+和SWT GUI的参考实现，但也打算提供其他语言如C/C++和其他的widget的支持，和其他
+一些在Java下不支持的。
+
+WWW: http://www.eclipse.org/vep/
