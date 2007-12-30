@@ -1,0 +1,10 @@
+Log4E
+
+Log4E是一个自由的Eclipse插件，帮助你在Java项目中容易地使用logger。它不受任何特定的
+日志框架约束。因此你可以使用偏好来定义你自己的模板以使用自己logger。它支持Log4j、
+Commons Logging和JDK 1.4 logging。使用时，通过java文件上下文菜单或编辑器的上下文
+菜单到子菜单“Log4”。
+注意，编辑器的子菜单提供了更多的任务。
+所有任务都可以通过类或方法层来调用。
+
+WWW: http://log4e.jayefem.de
