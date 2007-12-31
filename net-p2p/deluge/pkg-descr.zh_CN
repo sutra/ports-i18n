@@ -1,0 +1,6 @@
+Deluge是一个Bittorrent客户端，用Python和GTK+编写。Deluge的用意是给Linux、BSD和
+其它*NIX GTK桌面环境，例如Gnome和XFCE，提供一个本地化的、全功能的客户端。
+
+Deluge的bittorrent协议使用Rasterbar的libtorrent。
+
+WWW: http://deluge-torrent.org/
