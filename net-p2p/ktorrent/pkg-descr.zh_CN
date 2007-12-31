@@ -1,0 +1,17 @@
+KTorrent是一个KDE下的BitTorrent客户端。它的主要特点是：
+
+  o 下载torrent文件
+  o 上传速度限制
+  o 使用Bittorrent下载网站的搜索引擎来进行Internet搜索
+  o UDP的Tracker
+  o 使用UPnP进行端口转发
+  o IP阻止插件
+  o 导入部分或全部下载
+  o 支持分布式哈希表
+  o 协议加密
+  o 带宽调度
+  o 目录扫描，自动加载目录中的torrent
+  o 可以添加tracker到torrent中
+  o 对多文件的torrent，进行文件优先顺序设置
+
+WWW: http://ktorrent.org/
