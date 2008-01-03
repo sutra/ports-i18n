@@ -1,0 +1,10 @@
+Gnome Gmail Notifier项目旨在提供一个稳定、高效的GTK+2.0应用程序，它可以定期地
+检查用户gmail收件箱。
+
+这个Notifier会作为系统托盘图标显示在GNOME2桌面上，当用户收到新邮件时，弹出一个
+小气球通知。
+
+WWW: http://code.google.com/p/gnome-gmail-notifier/
+
+- Florent Thoumie
+flz@FreeBSD.org
