@@ -1,0 +1,4 @@
+这个项目的目的是尽可能地在 Mozilla/Firefox 中尽可能多地实现 WML （无线标记语言）。
+目前扩展基于 Raoul 发在 Mozilla bug 35995 中的附件。
+
+WWW: http://wmlbrowser.mozdev.org/
