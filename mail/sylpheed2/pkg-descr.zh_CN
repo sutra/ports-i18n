@@ -1,0 +1,10 @@
+Sylpheed 是一个基于 GTK+ 2 的电子邮件客户端（和新闻阅读器），运行于 X 窗口系统，
+其致力于：
+  * 快速响应
+  * 优雅的，先进的接口
+  * 易于配置，操作简单明了
+  * 丰富的功能
+目前，支持许多特性，包括 POP3、IMAP、NNTP、多账号、多线程、过滤器、MIME 附件、
+APOP、SMTP、AUTH、SSL、IPv6、GnuPG、国际化等等。
+
+WWW: http://sylpheed.good-day.net/
