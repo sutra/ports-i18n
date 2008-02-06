@@ -1,0 +1,13 @@
+YSlow 分析 web 网页，并告诉你为什么它们这么慢，基于 Yahoo 的高性能 web 站点规则。
+
+YSlow 为你提供：
+* 性能报告
+* HTTP/HTML 摘要
+* 页面上的元素清单
+* 包含 JSLint 等工具
+
+YSlow 里的大部分文件都是在 Mozilla Public License（MPL）版本 1.1 下发布的，也有
+部分有例外。YSlow 包含 Douglas Crockford 编写的 jslint，它是在 BSD 风格的授权。
+YSlow 也包含了一些来在 Yahoo! User Interface 类库的文件，这些则是使用的 BSD 授权。
+
+WWW: http://developer.yahoo.com/yslow/
