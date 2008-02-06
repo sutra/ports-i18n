@@ -1,0 +1,13 @@
+Torbutton 通过一键点击的方式来启用和禁用 Tor。它向状态栏添加一个面板，“Tor Enabled”
+（绿色）或“tor Disabled”（红色）。用户可以点击来切换状态。如果用户（或者是其他扩展）改
+变了代理设置，改变会自动反映在状态栏上。
+
+有些用户也许会选择一个工具栏按钮，而不是一个状态栏面板。这样的按钮已经包含在内了，要添加
+它可以在工具栏上右击，选择“定制....”，然后拖动 Torbutton 图标到工具栏上。在首选项里有
+一个选择用来隐藏状态栏面板（工具->附加软件，选择 Torbutton，点击首选项）。
+
+较新版本的 Firefox 能通过 socks 代理来发送 DNS 解析，如果该特性可用，Torbutton 也会
+利用这一特性。
+
+WWW: http://torbutton.torproject.org/dev/
+Author: Scott Squires
