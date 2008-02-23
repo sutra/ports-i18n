@@ -1,0 +1,14 @@
+这是 sudo 的 CU 版本。
+
+Sudo 是一个设计用来允许系统管理员授予有限的 root 用户特权给普通用户的程序。其基本
+理念是给予尽可能少的权限给用户，但足够他们完成工作。
+
+邮件列表：
+
+请发送 bug，问题，意见等到 sudo-bugs@courtesan.com
+当 sudo 有新的版本发布时，有一个邮件列表会收到通知。你可以通过发送一个包含一行
+“subscribe sudo-announce”的消息给“majordomo@courtesan.com”来订阅它。也
+有一个邮件列表，给为 sudo 工作的人们开的。用这个命令可以加入
+“subscribe sudo-workers”。
+
+WWW: http://www.courtesan.com/sudo/
