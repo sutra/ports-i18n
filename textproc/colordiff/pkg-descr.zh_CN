@@ -1,0 +1,9 @@
+Colordiff 是一个 diff 的包装器，产生和 diff 相同的输出，但是在命令行模式下以语法高亮的
+形式显示，以增强可读性。
+
+输出和带有语法高亮功能的 Vim 或 Emacs 产生的 diff-generated 补丁类似。
+
+WWW: http://colordiff.sourceforge.net/
+
+- ehaupt
+ehaupt@critical.ch
