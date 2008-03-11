@@ -1,0 +1,14 @@
+这是一个X/tty主板监视器，通过下面3个方法：ISA-I/O, SMBus, VIA-direct。
+支持LM78/79、WINBond 83781D/83782D/83783S、ASUS 991227F
+和VIA VT82C686A/B PC-health芯片。
+
+运行“mbmon -h”或“xmbmon -help”查看使用方法。
+
+***警告*** 
+
+这些程序在超级用户特权下直接访问SMBus或ISA-IO端口，所以它可能造成系统崩溃。请首
+先使用“mbmon -d”或“xmbmon -debug”测试。
+
+WWW: http://www.nt.phys.kyushu-u.ac.jp/shimizu/download/download.html
+-- 
+kaz@kobe1995.net (NAKAMURA Kazushi)
