@@ -1,0 +1,10 @@
+GCC，GNU 编译器集合包含 C，C++，Java 和 Fortran。
+
+这个 port 安装各种前端，如 gcc44，g++44，gcj44，
+gfortran44 等等到 ${PREFIX}/bin 目录。
+
+（编译 Java 前端和相关的 libgcj 库将需要超过
+512MB 的主存。在环境里设置 WITHOUT_JAVA=yes
+可以在构建时避免安装这些前端。）
+
+WWW: http://gcc.gnu.org/
