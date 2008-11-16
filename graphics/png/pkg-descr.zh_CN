@@ -1,0 +1,7 @@
+Libpng 是一个 PNG 规范的伴侣，为需要支持 PNG 文件格式的应用程序节省大量的时间。
+大多数用户不需要大量修改程序库；高级用户可能需要做稍多的修改。这个程序库也是为
+用户而编写的。在使代码易于理解的同时也在尽可能地使代码完善。目前，这个程序库支
+持 C。其他语言的支持也在考虑当中。
+
+WWW: http://www.libpng.org/pub/png/libpng.html
+     http://libpng.sourceforge.net/
