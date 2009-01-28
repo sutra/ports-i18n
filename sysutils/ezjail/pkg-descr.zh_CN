@@ -1,0 +1,6 @@
+该 port 包含两个脚本，用来轻松地创建、操作和运行 FreeBSD jails。
+
+WWW: http://erdgeist.org/arts/software/ezjail/
+
+- erdgeist
+Dirk Engling <erdgeist@erdgeist.org>
