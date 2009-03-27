@@ -1,0 +1,4 @@
+dvtm 引入窗口管理的新概念：平铺式窗口管理，从而将终端窗口可以类似X11窗口那样平铺管理。
+作为一个终端窗口管理器，它能同时打开多个基于终端的程序如vim，mutt，cmus，irssi等。
+
+WWW: http://www.brain-dump.org/projects/dvtm/
