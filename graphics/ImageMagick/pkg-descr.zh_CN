@@ -1,0 +1,10 @@
+ImageMagick是一个用来对图像进行显示和交互操作的包。这个包包含了图像转换、注释、合成、动画
+和剪辑工具。ImageMagick能读写各种流行的图像格式（如，JPEG、TIFF、PNM、XPM、Photo CD等）。
+
+这个工具包可以在没有GUI（X11）的支持的情况下编译——它将没有显示、导入和动画功能，但仍保留极为有用
+的图像处理功能。
+
+这个可选的“显示”实用工具和port下的同名实用工具misc/display冲突。
+
+WWW: http://www.ImageMagick.org/
+     http://imagemagick.sourceforge.net/
