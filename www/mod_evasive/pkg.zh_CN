@@ -1,0 +1,1 @@
+COMMENT=	试图保护HTTP服务器以免受DoS／DDoS攻击的Apache模块
