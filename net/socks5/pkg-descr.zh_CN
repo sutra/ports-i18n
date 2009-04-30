@@ -1,0 +1,15 @@
+这是上SOCKS的NWSL（以前的CSTC）版本5.0，允许处于防火墙后面的Unix主机能完全访问
+互联网而不需要直接通过IP到达。它需要运行一个SOCKS服务器程序，这样就可以让处于防火
+墙后面的主机直接和互联网通信。它是在David
+Koblas <koblas@netcom.com>编写的SOCKS的原有基础上写的，
+and the work of the AFT working group of the IETF.
+
+注意：socks5的共享库功能需要一个动态连接器，才能明白LD_PRELOAD环境变量。
+      FreeBSD 2.1.5-RELEASE支持这个；因此current和stable及其晚于
+        1996年5月2日的版本都支持。所有其它特性都能在FreeBSD 2.0及其更高版本上运行。 
+
+警告：没有适当的许可将SOCKS从美国出口是违法ITAR法规的。
+
+警告：商业使用和软件分发需要一个NEC公司的许可证。
+
+请参阅README文件以获取更多信息。
