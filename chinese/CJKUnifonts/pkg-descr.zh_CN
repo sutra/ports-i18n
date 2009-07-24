@@ -3,10 +3,17 @@
  - GB2312-80
  - HKSCS-2004
  - ISO8859-1,2,3,4,7,9,10,13,14,15
- - Bopomofo Extended for Minnan and Hakka
+ - 闽南和客家方音符号，闽南（Unicode 5.0）和它们的变体。
 
-The missing glyphs for GBK, Japanese and Korean are under development, 
-every release contains more glyphs.
-缺少的 GBK，日文和韩文的 glyphs 正在开发中，每个发行版都会包含更多的 glyphs。
+下面的已经部分支持：
+CNS 11643
+GBK
+GB18030
+Japanese
+Korean
+
+这个字体还在开发中，部分支持的字符集新符号正在不断地加入。
+
+这个字体是一个TrueType集合，包含4种风格，分别是：CN、HK、TW和TW MBE。
 
 WWW: http://www.freedesktop.org/wiki/Software_2fCJKUnifonts
