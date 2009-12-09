@@ -1,0 +1,4 @@
+libopkele 是 OpenID 分散式身份系统的一个 c++ 实现。它提供了 OpenID 协议的
+处理，留下认证和用户交互给实现者。
+
+WWW: http://kin.klever.net/libopkele/
