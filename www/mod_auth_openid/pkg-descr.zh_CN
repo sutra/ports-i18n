@@ -1,0 +1,4 @@
+mod_auth_openid 是一个为 Apache 2 web 服务器提供的 OpenID 认证模块。它可以处
+理 OpenID 2.0 规范中指定的 OpenID consumer 的功能。
+
+WWW: http://trac.butterfat.net/public/mod_auth_openid
