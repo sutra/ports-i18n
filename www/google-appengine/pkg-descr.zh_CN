@@ -1,0 +1,11 @@
+Google App Engine 软件开发工具包（SDK）。
+
+Google App Engine 允许你构建易于扩展的 web 应用程序。Google App Engine
+应用程序使用 Python 编程语言实现。这个运行环境包含了完整的 Python
+语言和大多数 Python 标准程序库。
+
+App Engine 应用程序很容易建立，易于维护并且在你的流量和数据存储需求增加
+时可以方便地升级。使用 App Engine，不需要维护服务器：你只需要上传你的应
+用程序，它就可以为你的用户提供服务了。
+
+WWW:	http://code.google.com/appengine/
