@@ -1,0 +1,5 @@
+Commonclipse 是一个给 jakarta commons-lang 用户的 eclipse 插件。
+它能使用 commons-lang builders 自动生成下面的方法：toString()，
+hashCode()，equals(Object)，compareTo(Object)。
+
+WWW: http://sourceforge.net/projects/commonclipse/
