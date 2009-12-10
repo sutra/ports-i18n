@@ -1,0 +1,4 @@
+StarDict 是一个用 Gtk 2 写成跨平台的国际化词典。它包含了如“Glob 样式的模式
+匹配”、“侦测选中的词”、“模糊查询”等的强大的功能。
+
+WWW: http://stardict.sourceforge.net/
