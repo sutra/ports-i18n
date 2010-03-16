@@ -1,0 +1,5 @@
+Bot Sentry 是一个 Pidgin （libpurple） 插件用来防止垃圾即时消息。
+它可以让你忽略即时消息，除非发送者在你的好友列表中，发送者在你的允许列表中，
+或者发送者正确回答了你预先定义的问题。
+
+WWW: http://sourceforge.net/projects/pidgin-bs/
