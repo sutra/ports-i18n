@@ -1,0 +1,6 @@
+Jython 是一个将高层次的、动态的、面向对象的语言 Python
+无缝地集成到 Java 平台的实现。Jython 的前身，JPython，
+被认证为 100% 的纯 Java。Jython 可自由地用于商业和非商业场合，
+并且它以源代码形式发布。
+
+WWW: http://www.jython.org/
