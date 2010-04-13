@@ -1,0 +1,5 @@
+Serf 是一个基于 C 语言的 HTTP 客户端类库，它建立在 Apache Portable Runtime (APR)
+类库基础之上。它建立多重连接，读写异步通信。保持最小的内存复制和转换，以提供高性能的
+操作。
+
+WWW: http://serf.googlecode.com
