@@ -1,0 +1,8 @@
+当你安装了很多 ports 的时候，很难知道 /usr/ports/UPDATING 中哪些是和你有关的，
+portupdate-scan 帮你简化这一处理。
+
+它读取 /usr/ports/UPDATING,试图判断每一块以确认受影响的 ports 是否已经安装。它省
+略掉不想关的。它可以处理通配符和其他特殊情况，但是不能处理所有的词语变种。
+在不确定的情况下，它会产生错误报告。
+
+Alex Stangl <alex@stangl.us>
