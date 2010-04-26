@@ -1,0 +1,10 @@
+Wine 是一个微软 Windows 兼容层（或程序加载器），能够在 i386 和兼容
+的 CPU 上运行 Windows 应用程序。 在 Wine 中运行 Windows 程序就像本
+地程序运行那样，没有性能和内存使用的限制，并且有类似的外观。
+
+许多应用程序已经能或多或少地正常工作，包括微软 Office 的各个版本和一
+些游戏。
+
+WWW: http://www.winehq.org/
+
+Gerald Pfeifer <gerald@FreeBSD.org>
