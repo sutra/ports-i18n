@@ -1,0 +1,4 @@
+APT 是 Debian 项目的先进的 dpkg 前端。APT 提供了完善的安装向导、 多源支持
+功能和一些独特的功能。
+
+WWW: http://packages.debian.org/apt
