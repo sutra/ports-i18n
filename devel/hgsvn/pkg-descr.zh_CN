@@ -1,0 +1,15 @@
+这套脚本允许对 Subversion 管理的项目，在本地使用 Mercurial 分布式版
+本控制系统来工作。
+
+为什么使用 Mercurial？你可以做一些本地（离线的）工作，从 SVN 服务器
+中拉出最新的修改，管理私有分支，提交补丁给项目维护者，等等。当然，你
+还有快速的本地操作比如“hg log”、“hg annotate"……
+
+提供了三个脚本：
+
+ * hgimportsvn 初始化一个 SVN 检出，也是一个 Mercurial 库。
+ * hgpullsvn 从 SVN 库中拉出最新的修改，并相应地更新 Mercurial
+   库。它可以运行多次。
+ * hgpushsvn 向 SVN 库中推回本地的 Mercurial 提交。
+
+WWW:	http://pypi.python.org/pypi/hgsvn
