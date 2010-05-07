@@ -1,0 +1,9 @@
+svk 是一个用 Perl 写成的分散的版本控制系统。
+它使用 subversion 文件系统但是提供了额外的功能：
+
+    - 离线操作，比如checkin、log、merge。
+    - 分布式分支。
+    - 轻量级的工作复本管理（没有 .svn 目录）。
+    - 高级的合并算法，如 star-merge 和 cherry picking。
+
+WWW: http://search.cpan.org/dist/SVK/
