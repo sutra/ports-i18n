@@ -1,0 +1,5 @@
+svn2cl 是一个简单的 xsl 转换和 shell 包装，用来根据 subversion 版本库日志
+生成一个经典的 GNU 风格的变更履历。 它是由几个从不同的地方找来的不同风格
+的变更履历脚本使用共同的 xslt 构成的。
+
+WWW: http://arthurdejong.org/svn2cl/
