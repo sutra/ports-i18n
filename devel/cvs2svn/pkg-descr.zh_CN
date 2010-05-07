@@ -1,0 +1,7 @@
+cvs2svn 是一个 Python 脚本，能将 CVS 版本库迁移到 Subversion、Git
+或 Bazaar 版本库。
+
+它是专门用来一次性转换的，而不是用来在 CVS 和 Subversion/Git/Bazaar
+之间重复地同步的。
+
+WWW: http://cvs2svn.tigris.org/
