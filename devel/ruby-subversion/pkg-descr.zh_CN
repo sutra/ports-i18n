@@ -1,0 +1,6 @@
+Subversion 是一个版本控制系统，其设计得尽可能地类似于 cvs(1)，但解决了很多
+cvs(1) 未解决的问题。
+
+这个 port 给 Subversion 添加 Ruby 绑定。
+
+WWW: http://subversion.tigris.org/
