@@ -1,0 +1,4 @@
+psvn.el 是版本控制工具 subversion 的一个界面。psvn.el 为 subversion 提供了
+一个类似 cvs 的 pcl-cvs 的界面。
+
+WWW: http://xsteve.nit.at/prg/emacs/
