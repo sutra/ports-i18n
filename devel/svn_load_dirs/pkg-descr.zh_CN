@@ -1,0 +1,7 @@
+这个 Perl 脚本是设计用来加载很多目录到 Subversion 的。这在你有许多 zip 或
+tar.{Z,gz,bz2} 文件包要加载到 Subversion 时很有用。
+
+这个脚本是 Subversion 分发包的一部分，并且大家认为它可以和 subversion
+本身使用相同的授权来使用。
+
+WWW:	http://subversion.tigris.org/tools_contrib.html#client_side
