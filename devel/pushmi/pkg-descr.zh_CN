@@ -1,0 +1,4 @@
+Pushmi 提供了一个机制用来双向同步 Subversion 版本库。Pushmi 和其它复制工具
+主要的不同在于Pushmi 让“从”版本库也可以被通常的 Subversion 客户端写入。
+
+WWW: http://search.cpan.org/dist/Pushmi/
