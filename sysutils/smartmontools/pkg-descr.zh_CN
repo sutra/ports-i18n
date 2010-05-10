@@ -1,0 +1,7 @@
+这个 smartmontools 包，包含了两个实用程序（smartctl 和 smartd），
+通过现代的 ATA 和 SCSI 硬盘内建的自我监控（Self-Monitoring）、
+分析（Analysis）和报告（Reporting）技术（Technology）系统（S.M.A.R.T.）
+来控制和监控存储系统。这是来自 smartsuite 的方案，包含了对 ATA/ATAPI-5
+磁盘的支持。
+
+WWW: http://smartmontools.sourceforge.net
