@@ -1,0 +1,9 @@
+jpg2pdf 是一个能把一个或多个 JPG 图像转成一个单一的 PDF 或 PostScript 文件
+的程序。
+
+和其它类似的程序相比，jpg2pdf 的主要有点在于其小巧、快速且完全由 C 语言写
+成。
+
+它可以通过使用适当的 PDF 或 PS 规则直接包装 JPG 数据，因此没有图像转换工作。
+
+WWW: http://info.iet.unipi.it/~luigi/FreeBSD/
