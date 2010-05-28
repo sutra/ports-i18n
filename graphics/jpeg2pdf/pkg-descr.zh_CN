@@ -1,0 +1,12 @@
+jpeg2pdf has the following features:
+jpeg2pdf 具有以下特点：
+
+* jpeg2pdf 是快速的。和 ImageMagick 或其它一般的图像转换工具不同，jpeg2pdf
+  是专门用来做这个事的，所以非常有效。
+* jpeg2pdf 生成紧凑的 PDF 文件。和其它一般的图像转换工具不同，jpeg2pdf 不做
+  任何图像处理，包括缩放，也不在 PDF 文件中生成页面缩略图。
+* jpeg2pdf 是一个命令行程序。因此很容易集成到 shell 脚本或 web 服务器中自动
+  处理转换任务。
+
+Author:	Koen Vervloesem <koen.vervloesem@myrealbox.com>
+WWW:	http://koan.studentenweb.org/software/jpeg2pdf.html
