@@ -7,7 +7,7 @@ YSlow 为你提供：
 * 包含 JSLint 等工具
 
 YSlow 里的大部分文件都是在 Mozilla Public License（MPL）版本 1.1 下发布的，也有
-部分有例外。YSlow 包含 Douglas Crockford 编写的 jslint，它是在 BSD 风格的授权。
+部分有例外。YSlow 包含了 Douglas Crockford 编写的 jslint，它使用 BSD 风格的授权。
 YSlow 也包含了一些来在 Yahoo! User Interface 类库的文件，这些则是使用的 BSD 授权。
 
 WWW: http://developer.yahoo.com/yslow/
