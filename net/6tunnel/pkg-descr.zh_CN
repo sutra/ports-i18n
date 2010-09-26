@@ -1,0 +1,6 @@
+6tunnel 允许你通过仅支持 IPv4 的应用程序访问 IPv6 主机提供的服务，反之亦然。
+它可以绑定到你的 IPv4（默认）或者 IPv6 的地址并转发所有数据到 IPv4 或
+IPv6（默认）主机。
+举个例子，它可以用作一个 IPv6 的 IRC 代理。
+
+WWW: http://toxygen.net/6tunnel/
