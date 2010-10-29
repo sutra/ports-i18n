@@ -1,0 +1,4 @@
+Tmux 是一个终端复用器，它允许在一个单一的终端里访问和控制许多的终端。tmux 的目的
+是要成为一个简单的、现代的、BSD 许可的用来替代类似 GNU screen 等软件的替代方案。
+
+WWW:    http://www.sourceforge.net/projects/tmux/
