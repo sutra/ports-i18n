@@ -1,0 +1,7 @@
+RTF 是微软的富文本格式，一个更便携、主要是ASCII的格式化语言，它由像微软
+Word 字处理软件导出。这些文件一般具有扩展名 .rtf，但偶尔也用 .doc 扩展
+名。这个解析器是从微软规范移植到 Unix 系统的。
+
+WWW:	http://www.fiction.net/blong/programs/#rtf
+
+- jim <jim@FreeBSD.org>
