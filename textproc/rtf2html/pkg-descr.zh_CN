@@ -1,0 +1,4 @@
+一个简单的 rtf2html 转换器。如果没有指定文件，rtf2html 将从标准输入读取。
+
+- ehaupt
+ehaupt@critical.ch
