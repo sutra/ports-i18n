@@ -7,6 +7,6 @@ Remmina GNOME 小应用程序：
  * GNOME 桌面小应用程序可以用来方便地访问 Remmina 的主要功能
  * 列出所有的远程桌面文件以方便建立连接
  * 支持远程桌面文件分组功能
- * 使用 Avahi 自动发现服务
+ * 使用 Avahi 自动侦测服务
 
 WWW: http://remmina.sourceforge.net/
