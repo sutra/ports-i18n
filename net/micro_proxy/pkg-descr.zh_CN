@@ -1,0 +1,10 @@
+Microproxy 是一个非常小的基于 Unix 的 HTTP/HTTPS 代理。它从 inetd 运行，
+这意味它的性能差。但是对于低流量的网站，这完全足够了。
+
+它实现了 HTTP/HTTPS 代理的所有的基本特性，包括 IPv6 转发，一共只有 320 行
+代码。
+
+WWW: http://www.acme.com/software/micro_proxy/
+
+- ehaupt
+ehaupt@critical.ch
