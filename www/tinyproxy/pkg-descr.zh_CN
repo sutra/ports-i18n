@@ -1,0 +1,13 @@
+tinyproxy 是一个 GPL 授权的、轻量级的 HTTP 代理。
+从设计之初就考虑到了快速和小巧，它是一个理想的 HTTP 代理服务器解决方案，
+适用于那些需要一个功能齐全，但是没有足够的资源来运行一个对系统资源要求
+较高的 HTTP 代理服务器的网站。tinyproxy 完全兼容现有的 web 浏览器，并包
+含了很多有用的特性，比如匿名模式。
+
+请注意 tinyproxy 需要一些配置才能运行在匿名模式下。详见
+tinyproxy.conf.sample。 
+
+WWW: https://banu.com/tinyproxy/
+
+- Mitsuru Yoshida
+mitsuru@riken.go.jp
