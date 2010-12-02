@@ -1,0 +1,10 @@
+Gwget 是一个 Gnome 桌面的下载管理器。其主要特性如下：
+
+* 恢复：默认情况下，gwget 尝试继续所有的下载。
+* 通知：Gwget 尝试使用 Gnome 通知区域。你可以关闭主窗口，让 gwget 在后台运行。
+* 递归：当你给的下载 URL 是一个 html、php、asp 或者 web 页的目录时，
+  gwget 检测后会询问你是否是仅要下载某个文件（多媒体文件或者仅仅该索引页
+  等等）。
+* 拖放：你可以拖放一个 url 到主窗口或者通知区域图标来添加一个下载。
+
+WWW: http://projects.gnome.org/gwget/
