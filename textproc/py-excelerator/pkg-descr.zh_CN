@@ -1,0 +1,5 @@
+pyExcelerator 是一个 Python 库，能生成 Excel 97+ 文件和导入 Excel 95+ 文件。
+在 Excel 文件中支持 Unicode 并能使用多种格式化功能和打印选项。可以导出 Excel
+和 OLE2 复合文件。
+
+WWW: http://sourceforge.net/projects/pyexcelerator
