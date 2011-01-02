@@ -1,0 +1,5 @@
+rss2email 是一个简单的 Python 脚本，让你订阅一个 XML 格式的新闻供稿列表
+并通过电子邮件向你发送新条目。
+
+WWW: http://rss2email.infogami.com/
+Author: Aaron Swartz <me@aaronsw.com>
