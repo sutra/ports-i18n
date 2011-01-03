@@ -1,0 +1,8 @@
+这是一个管理脚本集合。目前它由下列脚本组成：一个在运行时控制 rc.d 的脚本，
+一个在 ports 上批量运行共通 make 目标的脚本，
+一些为 make 工作设置变量（类似 portconf，但是可以做更多的事情）的脚本。
+和用来检查损坏的包和丢失的库的脚本。
+
+WWW: http://sourceforge.net/projects/bsdadminscripts/
+
+- Kamikaze
