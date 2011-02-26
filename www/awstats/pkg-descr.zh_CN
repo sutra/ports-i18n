@@ -1,0 +1,11 @@
+AWStats 是高级的 Web 统计（Advanced Web Statistics）的缩写。这是一个免费的工具，
+用来生成高级的 web（也可以是 ftp 或者 mail）服务器的统计、图形。
+
+这个日志分析器作为一个 CGI 或者从命令行运行，并通过一些图形和网页告诉你你的日志里包含的
+所有可能的信息。它使用部分信息文件，以便能频繁和快速地处理大的日志文件。
+
+它能分析 IIS（W3C 日志格式）、Apache 日志文件（NCSA 联合/XLF/ELF 日志格式或者
+通用/CLF 日志格式）、WebStar 和大多数 web、代理、WAP和流服务器（FTP 服务器或者
+邮件日志）。
+
+WWW: http://awstats.sourceforge.net
