@@ -1,0 +1,19 @@
+httptunnel 通过 HTTP 隧道请求创建一个双向的虚拟数据路径。如果有需要的话，
+请求也可以通过 HTTP 代理来发送。
+
+这对被限制在防火墙后面的用户很有用。如果 WWW 访问允许通过一个 HTTP 代理
+进行，就能使用 httptunnel，并且 say、telnet 或者 PPP 连接到防火墙外部的
+计算机。
+
+如果你还不明白这是怎么一回事，你可以从 FAQ 文件里找到一些有用的信息。
+
+这个程序主要是面向技术型用户。他们应该知道怎么做。
+
+httptunnel 是一个自由软件。请参阅 COPYING 里的条款。
+如果你喜欢这个软件，可以发送一张明信片给我，我会很感激的，地址如下：
+        Lars Brinkhoff
+        Kopmansgatan 2
+        411 13  Goteborg
+        Sweden
+
+WWW: http://www.nocrew.org/software/httptunnel/
