@@ -1,0 +1,10 @@
+FreeBSD Port 工具包含下面的命令：
+- port 创建：从模版创建新的 port
+- port 差异对比：根据之前的版本生成 port 的差异
+- port 抓取：抓取 port 的新版本的 distfile(s)
+- port 帮助：显示 port(1) 命令的用法概要
+- port 提交：提交新的 port 或者 port 修改/更新的 PR
+- port 测试：自动测试新的 port 或者 port 更新
+
+WWW:	http://sourceforge.net/projects/porttools/
+ 
