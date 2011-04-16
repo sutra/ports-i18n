@@ -1,0 +1,4 @@
+Pdsh 是一个高效的、多线程的远程 shell 客户端，在多个远程主机上并行地执行
+命令。Pdsh 实现了动态扩展功能，例如新的远程 shell 服务和远程主机选择。
+
+WWW: http://code.google.com/p/pdsh/
