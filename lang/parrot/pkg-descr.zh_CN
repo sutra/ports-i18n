@@ -1,0 +1,6 @@
+Parrot 是一个虚拟机，旨在有效地编译和执行字节码的动态语言。
+
+Parrot 目前拥有各种语言的不同程度的实现，包括 Tcl、Javascript、Ruby、Lua、
+Scheme、PHP、Python、Perl 6、APL、和一个 .NET 字节码翻译器。
+
+WWW: http://www.parrotcode.org/

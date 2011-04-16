@@ -1,0 +1,11 @@
+Sshguard 通过服务的日志活动来监视服务。它通过本地翻火墙阻断源地址来对危险活动做出响应。
+
+Sshguard 采用一种巧妙的解析器，可以透明地识别多种日志格式
+（syslog、syslog-ng、metalog、multilog、raw messages），
+且支持多种服务，包括 SSH、FreeBSD 的 ftpd 和 dovecot。它可以操作所有主流防火墙系统，
+包括PF、netfilter/iptables、IPFIREWALL/ipfw、IPFILTER。
+
+Sshguard 包含多种相关特性，如 IPv6 支持、白名单、暂停、日志消息认证。它可靠、
+易于安装且仅要求很少的系统资源。
+
+WWW: http://sshguard.sourceforge.net
