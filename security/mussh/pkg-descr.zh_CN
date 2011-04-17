@@ -1,0 +1,4 @@
+Mussh 是一个 shell 脚本，让您通过 ssh 在多台主机通过一个命令就可以执行一个命令或者脚本。如果可能
+mussh 会使用 ssh-agent 和 RSA/DSA 密钥来尽量减少你输入密码的次数。
+
+WWW: http://sourceforge.net/projects/mussh/
