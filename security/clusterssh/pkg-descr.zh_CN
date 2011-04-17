@@ -1,0 +1,4 @@
+ClusterSSH 通过单个图形的控制窗口来控制许多的 xterm 窗口，以便通过一个 ssh 连接
+在多台服务器上交互地运行命令。
+
+WWW: http://clusterssh.sourceforge.net
