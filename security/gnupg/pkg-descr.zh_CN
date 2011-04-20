@@ -1,0 +1,6 @@
+GnuPG 是一个 PGP 的完整的免费替代品。
+
+由于它不使用专利的 IDEA 算法，因此它可以没有任何限制地被使用。GnuPG 是
+一个 RFC2440（OpenGPG）兼容应用程序。
+
+WWW: http://www.gnupg.org/
