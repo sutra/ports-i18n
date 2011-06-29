@@ -1,0 +1,4 @@
+Ptunnel 是一个应用程序，允许你通过 ICMP 回应请求和应答数据包，俗称 ping 请求
+和应答，来建立到远程主机的可靠的隧道连接。
+
+WWW: http://www.cs.uit.no/~daniels/PingTunnel/

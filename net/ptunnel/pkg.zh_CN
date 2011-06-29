@@ -1,0 +1,1 @@
+COMMENT=	通过 ICMP 回应请求和应答来建立 TCP 隧道连接
