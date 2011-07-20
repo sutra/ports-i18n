@@ -1,0 +1,9 @@
+Transmission-daemon 是一个守护程序式样的 Transmission 会话，
+可以使用 transmission-remote（包含在内）和其它比如 GTK+ 和
+CLI 接口的 Transmission BitTorrent 客户端通过 RPC 来控制.
+
+Transmission 已建成为一个轻量级、但不失强大的 BitTorrent 客户端。它简单、
+直观的界面设计，可以轻松地和各种计算环境紧密集成。Transmission 在提供有用地的功能
+和无限的功能膨胀间取得了平衡。此外，任何人都可以自由地使用和修改它。
+
+WWW: http://www.transmissionbt.com/
