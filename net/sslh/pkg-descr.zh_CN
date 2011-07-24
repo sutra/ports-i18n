@@ -1,0 +1,4 @@
+sslh 可以在同一个端口上接受 HTTPS 和 SSH 连接。这使得通过 443 端口连接 SSH 服务器
+（比如，从防火墙后面连入），同时又不影响那个端口上的 HTTPS 服务成为可能。
+
+WWW:	http://www.rutschle.net/tech/sslh.shtml
