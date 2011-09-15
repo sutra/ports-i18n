@@ -1,0 +1,6 @@
+“通过一次性转换将 svn 仓库导入到 git 的工具。”
+
+KDE 上使用的从 svn 到 git 的转换器。一个实际转换规则的例子，
+参见：http://gitorious.org/svn2git/kde-ruleset
+
+WWW: http://gitorious.org/svn2git/svn2git
