@@ -1,0 +1,7 @@
+这个插件是一个用于管理自定义字段的 Web 管理面板——添加、修改和删除它们
+而无需直接编辑 trac.ini 文件。
+
+这个插件是由 CodeResort.com 和 Optaros.com 合作开发的，并免费提供
+于 BSD 许可证下。
+
+WWW: http://trac-hacks.org/wiki/CustomFieldAdminPlugin
