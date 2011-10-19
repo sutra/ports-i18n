@@ -1,0 +1,3 @@
+这个插件可以验证任务单里的自定义字段为日期，并为这些字段添加一个日期选择器。
+
+WWW: http://trac-hacks.org/wiki/DateFieldPlugin
