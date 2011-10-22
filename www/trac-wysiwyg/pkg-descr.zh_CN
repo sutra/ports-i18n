@@ -1,0 +1,4 @@
+这个插件提供了一个维基所见即所得编辑器以生成 Trac 的维基标签。
+允许用户根据需要在所见即所得模式和标准维基标签格式间切换。
+
+WWW: http://trac-hacks.org/wiki/TracWysiwygPlugin
