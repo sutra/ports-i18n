@@ -1,0 +1,4 @@
+AutocompleteUsersPlugin 允许在新的或者已经存在的任务单上使用
+AJAX 来自动完成属主和抄送字段的用户名。
+
+WWW: http://trac-hacks.org/wiki/AutocompleteUsersPlugin
