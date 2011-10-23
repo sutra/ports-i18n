@@ -1,0 +1,4 @@
+GitTrac 是一个 Trac 插件，使用 Git 而不是 Subversion 作为 Trac 的版本控制系统
+后端（VersioningSystemBackend）。
+
+WWW: http://trac-hacks.org/wiki/GitPlugin
