@@ -1,0 +1,5 @@
+这个插件提供了一个项目博客，但不像 TracBlogPlugin 和
+SimpleBlogPlugin 那样，它不是用 Wiki 页面来存储内容。
+它不依赖于其它插件。
+
+WWW: http://trac-hacks.org/wiki/FullBlogPlugin
