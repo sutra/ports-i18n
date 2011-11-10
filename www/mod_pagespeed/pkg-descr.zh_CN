@@ -1,0 +1,6 @@
+mod_pagespeed 是一个开放源代码的 Apache 模块，它可以自动优化网页
+和网页上的资源。它通过过滤器来重写资源以实施 web 性能最佳实践。当
+Web 管理员 和 web 开发者使用 Apache HTTP 服务器提供内容时，可以使
+用 mod_pagespeed 来提升网页的性能。
+
+WWW:	http://code.google.com/speed/page-speed/docs/module.html
