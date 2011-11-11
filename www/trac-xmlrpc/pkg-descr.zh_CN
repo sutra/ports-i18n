@@ -1,5 +1,5 @@
 此插件允许通过 XML-RPC 来访问 Trac 插件的接口。
 
-它也包含了一些用来操作传票的导出功能，也计划为 Trac 的 API 的其它部分提供接口。
+它也包含了一些用来操作任务单的导出功能，也计划为 Trac 的 API 的其它部分提供接口。
 
 WWW: http://trac-hacks.org/wiki/XmlRpcPlugin
