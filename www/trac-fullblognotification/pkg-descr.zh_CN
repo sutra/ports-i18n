@@ -1,0 +1,16 @@
+这个插件使用 FullBlogPlugin 的 blog 变更接口来发出下列电子邮件通知：
+ * 新建文章
+ * 更新文章
+ * 回复文章
+ * 删除文章
+
+电子邮件通知会发给做出该变更的人，也可以发给其他用户或者一个通过设定
+smtp_always_cc 选项指定的分发列表。
+
+这些发出的电子邮件是使用 Trac 的 ticket_notify_email 模版作为蓝本的
+纯文本格式。
+
+如果你正在使用 AnnouncerPlugin，你应该使用它的 FullBlogPlugin 而不是
+FullBlogNotificationPlugin。
+
+WWW: http://trac-hacks.org/wiki/FullBlogNotificationPlugin
