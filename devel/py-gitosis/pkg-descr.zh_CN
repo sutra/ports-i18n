@@ -1,0 +1,8 @@
+管理 git 仓库，通过 SSH 提供对它们的访问，紧密的访问控制，且不需要
+shell 帐号。
+
+Gitosis 的目的是使托管 git 仓库变得容易和安全。它通过一个用户帐号
+管理多个仓库，使用 SSH 密钥来识别用户。最终用户不需要服务器的
+shell 帐号，他们使用一个共享的帐户并且不允许执行任意的命令。
+
+WWW: http://eagain.net/gitweb/?p=gitosis.git
