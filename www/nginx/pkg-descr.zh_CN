@@ -1,0 +1,5 @@
+又一个小而强大的 www 服务器，支持 kqueue （EV_CLEAR、
+EV_DISABLE、NOTE_LOWAT、EV_EOF 等)、select、poll、
+sendfile。
+
+WWW: http://sysoev.ru/nginx/
