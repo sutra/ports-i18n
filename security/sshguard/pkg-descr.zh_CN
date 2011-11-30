@@ -1,4 +1,4 @@
-Sshguard 通过服务的日志活动来监视服务。它通过本地翻火墙阻断源地址来对危险活动做出响应。
+Sshguard 通过服务的日志活动来监视服务。它通过本地防火墙阻断源地址来对危险活动做出响应。
 
 Sshguard 采用一种巧妙的解析器，可以透明地识别多种日志格式
 （syslog、syslog-ng、metalog、multilog、raw messages），
