@@ -1,0 +1,20 @@
+proxy-connect 是一个简单的中继命令，使得网络连接通过 SOCKS 和 HTTPS 代理。
+它主要是用来作为代理命令用于 OpenSSH。
+
+proxy-connect 的特点如下：
+
+    * 支持 SOCKS（版本 4/4a/5）和 HTTPS 连接方法。
+    * 支持 SOCKS 的 NO-AUTH 和 USERPASS 认证
+    * 部分支持 telent 代理（实验性的）。
+    * 你可以用 tty、ssh-askpass 或者环境变量输入密码。
+    * 简单并和一般的程序一样独立于 OpenSSH。
+    * 你也可以中继本地套接字流而不是标准的 I/O 流。
+
+使用例子：
+
+添加到 ~/.ssh/config
+
+Host remote.outside.net
+	ProxyCommand /usr/local/sbin/proxy-connect -S socks:1080 %h %p
+
+WWW: http://www.meadowy.org/~gotoh/projects/connect
