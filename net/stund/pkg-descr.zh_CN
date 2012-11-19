@@ -1,0 +1,11 @@
+STUN 服务器是一个 STUN 协议的实现，使得 STUN 可以用于基于 SIP 的系统。
+STUN 服务器软件包也包含了一个客户端 API，以作为一个 SIP 终端。此外，还有
+一个命令行的 UNIX 客户端和一个图形窗口的客户端，用来确认用户正在使用什么
+类型的 NAT。
+
+STUN 是一个应用层协议，它允许位于 NAT 后的客户端找出自己的公网 IP 地址和
+位于 STUN 客户端和服务器端间的 NAT 设备的性质。
+
+当前版本的代码支持 RFC 3489 的大多数特性，除了从服务器获得 OTP 的功能。
+
+WWW: http://www.vovida.org/applications/downloads/stun/
