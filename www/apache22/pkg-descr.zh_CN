@@ -1,0 +1,7 @@
+Apache HTTP 服务器项目是为了建立和维护一个开源的 HTTP 服务器，为现代的桌面
+和服务器操作系统，如 UNIX 和 Windows NT。该项目的目标是提供一个安全、高效和
+可扩展的服务器，提供同步于当前的 HTTP 标准的 HTTP 服务。
+Apache Web 服务器的 2.x 分支包含了一些改进，如线程、APR 的使用、原生 IPv6
+和 SSL 支持等。
+
+WWW: http://httpd.apache.org/
