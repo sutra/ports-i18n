@@ -1,0 +1,9 @@
+ser 或 SIP Express Router 是一个非常快速和灵活的 SIP（RFC3261）代理服务器。
+完全用 C 语言编写，ser 每秒可以处理上千个来电，即使在廉价的硬件上。类
+C Shell 的脚本语言能完全地控制服务器的行为。它的模块化架构允许仅加载一个
+功能模块。目前有以下模块可用：摘要式身份认证、CPL 脚本、即时通讯、MySQL 支
+持、Presence Agent、Radius 认证、Record Routing、短信网关、Jabber 网关、
+Transaction 模块、登记者和用户位置。
+
+
+WWW: http://www.iptel.org/ser/
