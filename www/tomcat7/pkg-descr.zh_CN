@@ -1,0 +1,7 @@
+Apache Tomcat 是一个 100% 纯 Java 编写的 web 服务器。
+
+Apache Tomcat 7.0 实现了 Servlet 3.0 和 JavaServer Pages 2.2 规范，并包含了
+许多额外的特性，使其成为一个有用的平台，用于开发和部署 web 应用程序和 web
+服务。
+
+WWW: http://tomcat.apache.org/
