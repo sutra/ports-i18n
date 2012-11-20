@@ -1,0 +1,16 @@
+PostgreSQL 是一个久经考验的对象——关系型数据库管理系统，支持几乎所有的 SQL
+结构，包含子查询、事务和用户自定义类型和函数。是最先进的开源数据库，可用于
+任何地方。也提供商业支持。
+
+最初的 Postgres 代码，是许多研究生、本科生和程序员在美国加州大学伯克利
+分校的 Michael Stonebraker 教授的指导下努力的成果。在 1995 年，Andrew Yu 和
+Jolly Chen 转换了 DBMS 查询语言为 SQL 并创建了一个新的数据库系统，即
+Postgres95。许多人帮助移植、测试、调试和增强了 Postgres95 的代码。在代码
+质量逐渐提升后，1995 年后，PostgreSQL 诞生了。
+
+PostgreSQL 的开发，目前正由一群网络开发者组成的团队进行着。开发团队的协调员
+是 Marc G. Fournier（scrappy@PostgreSQL.ORG）。通过邮件列表（questions@PostgreSQL.ORG）可以获得来自 PostgreSQL 开发者／用户社区的支持。
+
+PostgreSQL 是自由的并提供完整的源代码。
+
+WWW: http://www.postgresql.org/
