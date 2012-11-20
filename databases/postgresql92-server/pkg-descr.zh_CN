@@ -9,7 +9,8 @@ Postgres95。许多人帮助移植、测试、调试和增强了 Postgres95 的�
 质量逐渐提升后，1995 年后，PostgreSQL 诞生了。
 
 PostgreSQL 的开发，目前正由一群网络开发者组成的团队进行着。开发团队的协调员
-是 Marc G. Fournier（scrappy@PostgreSQL.ORG）。通过邮件列表（questions@PostgreSQL.ORG）可以获得来自 PostgreSQL 开发者／用户社区的支持。
+是 Marc G. Fournier（scrappy@PostgreSQL.ORG）。通过邮件列表
+（questions@PostgreSQL.ORG）可以获得来自 PostgreSQL 开发者／用户社区的支持。
 
 PostgreSQL 是自由的并提供完整的源代码。
 
