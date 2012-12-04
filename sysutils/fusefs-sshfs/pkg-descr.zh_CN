@@ -1,0 +1,3 @@
+SSHFS 允许你通过普通的 ssh 连接挂载远程目录。
+
+WWW: http://sourceforge.net/projects/fuse/
