@@ -1,17 +1,16 @@
 Bouncy Castle Crypto API由如下内容组成：
 
-. A lightweight cryptography API in Java.Java语言的轻量级的密码学API。
-. A provider for the JCE and JCA.JCE和JCA的提供者。
-. A clean room implementation of the JCE 1.2.1.JCE 1.2.1的一个干净的实现。
-. A library for reading and writing encoded ASN.1 objects.读写编码的ASN.1对象的类库。
-. Generators for Version 1 and Version 3 X.509 certificates, Version 2 CRLs,
-  and PKCS12 files.版本1和版本3的X.509证书，版本2的CRL和PKCS12文件生成器。
-. Generators for Version 2 X.509 attribute certificates.版本2的X.509属性证书生成器。
-. Generators/Processors for S/MIME and CMS (PKCS7).S/MIME和CMS（PKCS7）的生成器和处理器。
-. Generators/Processors for OCSP (RFC 2560).OCSP（RFC 2560）的生成器和处理器。
-. Generators/Processors for TSP (RFC 3161).TSP（RFC 3161）的生成器和处理器。
-. Generators/Processors for OpenPGP (RFC 2440).OpenPGP（RFC 2440）的生成器和处理器。
-. A signed jar version suitable for JDK 1.4/1.5 and the Sun JCE.适用于JDK 1.4/1.5的签名jar。
+. Java 语言的轻量级的密码学API。
+. JCE 和 JCA 的提供者。
+. JCE 1.2.1 的一个清晰实现。
+. 读写编码的 ASN.1 对象的类库。
+. 版本1和版本3的 X.509 证书，版本2的 CRL 和 PKCS12 文件生成器。
+. 版本2的 X.509 属性证书生成器。
+. S/MIME 和 CMS（PKCS7）的生成器和处理器。
+. OCSP（RFC 2560）的生成器和处理器。
+. TSP（RFC 3161）的生成器和处理器。
+. OpenPGP（RFC 2440）的生成器和处理器。
+. 适用于JDK 1.4/1.5的签名jar。
 
 在X许可协议（修改过）下发行。
 
