@@ -1,0 +1,10 @@
+多路由器流量记录仪（MRTG）是一个监控网络链路流量负载的工具。MRTG 生成
+包含 PNG 图片的 HTML 页面，实时地以可视化的方式展现流量。查阅
+
+WWW: http://oss.oetiker.ch/mrtg/
+
+获得示例。MRTG 基于 Perl 和 C，可工作于 UNIX 和 Windows NT。
+
+MRTG 已成功用于很多网站。
+参见 MRTG-Site-Map：
+http://ee-staff.ethz.ch/~oetiker/webtools/mrtg/users.html
