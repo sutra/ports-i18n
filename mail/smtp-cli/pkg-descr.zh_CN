@@ -1,0 +1,7 @@
+smtp-cli 是一个强大的 SMTP 命令行客户端，
+支持如 STARTTLS、SMTP-AUTH、IPv6 等高级功能，
+支持从简单的纯文本消息的编写到带有可替换纯文本部分、附件和
+内联图片的 HTML 电子邮件的构建。
+每个附件的 MIME-Type 都可以独立地自动猜测或者在命令行里指定。
+
+WWW: http://www.logix.cz/michal/devel/smtp-cli/
