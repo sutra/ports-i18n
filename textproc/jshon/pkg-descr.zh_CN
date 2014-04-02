@@ -1,0 +1,6 @@
+jshon 解析器，读取和创建 JSON。
+它被设计为在 shell 内使用，
+比基于 grep/sed/awk 的解析健壮，
+比基于一行 perl/python 代码的解析更轻。
+
+WWW: http://kmkeen.com/jshon/
