@@ -1,0 +1,5 @@
+Solr 是一个基于 Lucene Java 搜索库的开源企业搜索服务器，
+提供了 XML/HTTP 和 JSON API、高亮查询结果、分面搜索、缓存、集群、
+和一个 web 管理界面等功能。它运行于 Java servlet 容器中，如 Tomcat。
+
+WWW: http://lucene.apache.org/solr/
