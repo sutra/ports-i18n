@@ -1,0 +1,11 @@
+smtpmail 是一个命令行小工具，允许用户使用远程 SMTP 服务器来发送邮件。
+
+特性
+
+    * 使用远程 SMTP 服务器
+    * 可自定义发送者地址
+    * 支持 SMTP 认证（类型 login）
+    * 可设置任意多个收件者，抄送和密送
+    * 可以添加任意多个附件
+
+WWW: http://savannah.nongnu.org/projects/smtpmail
