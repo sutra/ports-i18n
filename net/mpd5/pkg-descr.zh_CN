@@ -1,0 +1,37 @@
+Mpd 是 FreeBSD 上的一个基于 netgraph(4) 的多链路点对点协议的实现。
+快速且灵活。
+在用户层处理配置和协商通信，但完全在内核层路由所有的数据包。
+支持多种点对点子协议和扩展，比如：
+
+      兼容多链路点对点协议（Multi-link PPP）
+      密码认证协议（PAP）、询问握手协议（CHAP）、微软版本的询问握手协议（MS-CHAP）和扩展认证协议
+      点对点协议压缩和加密
+      网际协议控制协议（IPCP）和IPV6控制协议（IPV6CP）参数协商
+
+Mpd 支持很多链接类型：
+
+      窗口调制解调器
+      点对点隧道协议（PPTP）
+      第二层隧道协议（L2TP）
+      以太网上的点对点协议（PPPoE）
+      传输控制协议（TCP） 上的点对点协议
+      用户数据报协议（UDP） 上的点对点协议
+      特定 netgraph(4) 节点上的点对点协议
+
+Mpd also includes many additional features:
+Mpd 也包含很多额外的特性：
+
+      支持 IPv4 和 IPv6
+      远端用户拨入验证服务（RADIUS）验证和计费
+      NetFlow 流量计费
+      网络地址转换（NAT）
+      Dial-on-demand with idle timeout
+      同时运行多个活动连接
+      基于动态需求的链路管理（也成为“rubber bandwidth”）
+      Powerful chat scripting language for asynchronous serial ports
+      Pre-tested chat scripts for several common modems and ISDN TAs
+      Clean device-type independent design
+      Comprehensive logging
+      Telenet 和 HTTP 控制界面。
+
+WWW: http://www.sourceforge.net/projects/mpd
