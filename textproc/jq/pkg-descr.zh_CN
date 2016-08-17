@@ -1,0 +1,4 @@
+jq 是 JSON 数据领域的 sed —— 你可以用它来切分、过滤、映射、转换
+结构化的数据，像 sed、awk、grep 等处理文本那样简单。
+
+WWW: http://stedolan.github.com/jq/
