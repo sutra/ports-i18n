@@ -1,0 +1,11 @@
+Dnsmasq 是一个轻量级的，易于配置的 DNS 转发器和 DHCP 服务器。旨在为
+小型网络提供 DNS 和 可选的 DHCP。DHCP 服务器和 DNS 服务器集成，可以
+通过 DHCP 分配来为每台机器设置 DNS 服务器。Dnsmasq 支持静态和动
+态 DHCP 租约，和 BOOTP/TFTP/PXE 网络无盘启动计算机。
+
+Dnsmasq 适用于那些使用 NAT 并通过调制解调器、电缆调制解调器
+或者 ADSL 连接网络的家庭网络，对小型网络（最多为 1000 个客户端）
+也是不错的选择，资源使用少、配置简单是其终于的特性。
+			—— 西蒙 凯利
+
+WWW: http://www.thekelleys.org.uk/dnsmasq/doc.html
