@@ -1,0 +1,4 @@
+SmokePing 是一个延迟记录和图形化系统。它由一个守护进程组织延迟测量，
+和一个 CGI 展示图形化的结果。
+
+WWW: http://oss.oetiker.ch/smokeping/
